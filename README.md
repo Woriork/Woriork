@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Woriork</h1>
-<h3 align="center">Student</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
