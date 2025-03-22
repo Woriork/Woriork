@@ -1,8 +1,9 @@
-<p align="center">
+<p align="left">
   <img src="Bez%20nazwy.png" alt="Bez nazwy" style="width: 25%; height: auto;">
 </p>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="20"/> 
   </a> 
@@ -44,11 +45,11 @@
   </a> 
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woriork&layout=compact&v=2" alt="Languages">
 </p>
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Woriork/Woriork/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Woriork/Woriork/output/github-snake.svg" />
