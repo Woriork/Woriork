@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Woriork</h1>
+<p align="center">
+  <img src="Bez%20nazwy.png" alt="Bez nazwy">
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
