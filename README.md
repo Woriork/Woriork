@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Bez%20nazwy.png" alt="Bez nazwy">
+</p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
