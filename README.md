@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Bez%20nazwy.png" alt="Bez nazwy" width="100%" height = "50%">
+  <img src="Bez%20nazwy.png" alt="Bez nazwy" style="width: 50%; height: auto;">
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
