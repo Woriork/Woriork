@@ -2,6 +2,7 @@
   <img src="1.png" alt="Obrazek 1" style="height: 50%;">
 </p>
 
+
 <p align="left">
   <img src="Bez%20nazwy.png" alt="Bez nazwy" style="width: 25%; height: auto;">
 </p>
