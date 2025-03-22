@@ -1,4 +1,8 @@
 <p align="left">
+  <img src="vecteezy_twilight-snow-mountain-landscape-illustration_8653574-1.jpg" alt="Twilight Snow Mountain Landscape" style="width: 50%; height: auto;">
+</p>
+
+<p align="left">
   <img src="Bez%20nazwy.png" alt="Bez nazwy" style="width: 25%; height: auto;">
 </p>
 
