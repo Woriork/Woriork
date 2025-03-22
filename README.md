@@ -3,9 +3,8 @@
 </p>
 
 
-<p align="left">
-  <img src="Bez%20nazwy.png" alt="Bez nazwy" style="width: 25%; height: auto;">
-</p>
+# Hello World!, I'm Woriork:
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
