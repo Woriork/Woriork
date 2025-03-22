@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="1.jpg" alt="Twilight Snow Mountain Landscape"">
+  <img src="1.png" alt="Obrazek 1";">
 </p>
 
 <p align="left">
