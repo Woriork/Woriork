@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="vecteezy_twilight-snow-mountain-landscape-illustration_8653574-1.jpg" alt="Twilight Snow Mountain Landscape"">
+  <img src="1.jpg" alt="Twilight Snow Mountain Landscape"">
 </p>
 
 <p align="left">
