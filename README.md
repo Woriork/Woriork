@@ -5,6 +5,7 @@
 
 # Hello World! I'm Woriork:
 
+I'm a 21-year-old student of Applied Computer Science and Measurement Systems at the University of Wroclaw.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
