@@ -3,7 +3,7 @@
 </p>
 
 
-# Hello World!, I'm Woriork:
+# Hello World! I'm Woriork:
 
 
 <h3 align="left">Languages and Tools:</h3>
