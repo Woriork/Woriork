@@ -63,7 +63,7 @@ I'm a 21-year-old student of Applied Computer Science and Measurement Systems at
 </p>
 <a href="https://woriork.pythonanywhere.com/link">
   <img
-    src="[https://woriork.pythonanywhere.com](https://woriork.pythonanywhere.com?theme=dark)"
+    src="https://woriork.pythonanywhere.com"
     alt="Current Spotify Song"
   />
 </a>
