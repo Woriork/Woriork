@@ -61,3 +61,9 @@ I'm a 21-year-old student of Applied Computer Science and Measurement Systems at
     <img alt="github-snake" src="https://raw.githubusercontent.com/Woriork/Woriork/output/github-snake.svg" />
   </picture>
 </p>
+<a href="https://woriork.pythonanywhere.com/link">
+  <img
+    src="https://woriork.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
