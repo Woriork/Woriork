@@ -4,9 +4,25 @@
 
 <br>
 
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="middle">
+
 ```
-Woriork / Applied Computer Science / University of Wrocław / 21
+Woriork / 21
+Applied Computer Science
+University of Wrocław
 ```
+
+  </td>
+    <td width="40"></td>
+    <td valign="middle">
+      <a href="https://woriork.pythonanywhere.com/link">
+        <img src="https://woriork.pythonanywhere.com" alt="Now playing" height="80"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -53,9 +69,3 @@ Currently working with vector databases and semantic search infrastructure.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Woriork/Woriork/output/github-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/Woriork/Woriork/output/github-snake.svg"/>
 </picture>
-
----
-
-<a href="https://woriork.pythonanywhere.com/link">
-  <img src="https://woriork.pythonanywhere.com?theme=dark" alt="Now playing"/>
-</a>
