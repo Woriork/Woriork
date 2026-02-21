@@ -60,5 +60,5 @@ Currently working with vector databases and semantic search infrastructure.
 ---
 
 <a href="https://woriork.pythonanywhere.com/link">
-  <img src="https://woriork.pythonanywhere.com](https://woriork.pythonanywhere.com?theme=dark" alt="Now playing"/>
+  <img src="https://woriork.pythonanywhere.com?theme=dark" alt="Now playing"/>
 </a>
