@@ -64,6 +64,9 @@ Currently working with vector databases and semantic search infrastructure.
 ---
 
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Woriork&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&hide=jupyter%20notebook&langs_count=8" alt="Languages">
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Woriork/Woriork/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Woriork/Woriork/output/github-snake.svg"/>
