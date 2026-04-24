@@ -23,8 +23,8 @@ University of Wrocław
 ---
 
 <p align="center">
-Building systems around data, search and retrieval.<br>
-Working with vector databases and semantic search.
+Building things at the intersection of data, search, and systems.<br>
+Currently working with vector databases and semantic search infrastructure.
 </p>
 
 ---
