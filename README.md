@@ -1,31 +1,23 @@
 <div align="center">
-  <img src="1.png" alt="Banner" width="100%">
+  <img src="1.png" width="100%">
 </div>
 
-<br>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ca/ce/fd/cacefd52176708fd395d42758b876896.gif" height="140">
+</p>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/ca/ce/fd/cacefd52176708fd395d42758b876896.gif" alt="gif" height="160"/>
-</div>
-
-<br>
-
-<div align="center">
-
-```
+<pre align="center">
 Woriork / 21
 Applied Computer Science
 University of Wrocław
-```
+</pre>
 
+---
 
-<br>
+Building systems around data, search and retrieval.  
+Currently focused on vector databases and semantic search.
 
-### 🧠 About Me
-
-Building things at the intersection of data, search, and systems.
-Currently working with vector databases and semantic search infrastructure.
-
+---
 ---
 
 **Languages**
