@@ -17,9 +17,7 @@ University of Wrocław
   </td>
     <td width="40"></td>
     <td valign="middle">
-      <a href="https://woriork.pythonanywhere.com/link">
-        <img src="https://woriork.pythonanywhere.com?theme=dark" alt="Now playing" height="120"/>
-      </a>
+      <img src="https://i.pinimg.com/originals/ca/ce/fd/cacefd52176708fd395d42758b876896.gif" alt="gif" height="120"/>
     </td>
   </tr>
 </table>
