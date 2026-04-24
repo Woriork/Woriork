@@ -4,9 +4,13 @@
 
 <br>
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="middle">
+<div align="center">
+  <img src="https://i.pinimg.com/originals/ca/ce/fd/cacefd52176708fd395d42758b876896.gif" alt="gif" height="160"/>
+</div>
+
+<br>
+
+<div align="center">
 
 ```
 Woriork / 21
@@ -14,15 +18,10 @@ Applied Computer Science
 University of Wrocław
 ```
 
-  </td>
-    <td width="40"></td>
-    <td valign="middle">
-      <img src="https://i.pinimg.com/originals/ca/ce/fd/cacefd52176708fd395d42758b876896.gif" alt="gif" height="120"/>
-    </td>
-  </tr>
-</table>
 
 <br>
+
+### 🧠 About Me
 
 Building things at the intersection of data, search, and systems.
 Currently working with vector databases and semantic search infrastructure.
